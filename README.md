@@ -2,8 +2,6 @@
 
 Welcome to the Add-to-Cart-Service Website repository! This project is a simple yet powerful e-commerce solution built from the ground up with pure HTML, CSS, and JavaScript. It enables users to easily add items to their virtual shopping cart, all powered by Firebase for seamless data storage and retrieval.
 
-## My website is live here:
-https://add-to-cart-service.netlify.app/
 
 ## Features
 
